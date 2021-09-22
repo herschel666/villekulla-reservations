@@ -23,7 +23,7 @@
     ]
   },
   "dependencies": {
-    "@sendgrid/mail": "7.4.5",
+    "@sendgrid/mail": "7.4.7",
     "bcryptjs": "2.4.3",
     "dotenv": "10.0.0",
     "fastify": "3.20.1",
